@@ -42,7 +42,7 @@ python manage.py runserver 0.0.0.0:8443  --settings=order_api.settings
 
 ## Usage
 
-Note that a basic UI for documentation and tests is available at `/docs/`.
+**Note that a basic UI for documentation and tests is available at `/docs/`.**
 <br/><br/>
 List all existing orders with `GET /orders/`<br/>
 List can be filtered using query parameters **marketplace**, **currency** or **category**<br/>
